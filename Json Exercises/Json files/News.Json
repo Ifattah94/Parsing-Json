@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "source": "the-new-york-times",
+    "sortBy": "top",
+    "articles": [
+                 {
+                 "author": "Jonathan Martin and Sheryl Gay Stolberg",
+                 "title": "Roy Moore Is Accused of Sexual Misconduct by a Fifth Woman",
+                 "description": "The new accusations came hours after Senator Mitch McConnell, the majority leader, declared that he believes the accusers and urged Mr. Moore, a Senate candidate, to step aside.",
+                 "url": "https://www.nytimes.com/2017/11/13/us/politics/roy-moore-alabama-senate.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/us/14dc-moore-alpha2/14dc-moore-alpha2-facebookJumbo-v2.jpg",
+                 "publishedAt": "2017-11-14T14:39:35Z"
+                 },
+                 {
+                 "author": "Matt Apuzzo and Michael S. Schmidt",
+                 "title": "Trump Judicial Pick Did Not Disclose He Is Married to a White House Lawyer",
+                 "description": "Brett J. Talley was asked to name family members who might be a conflict of interest. He did not mention that his wife is the White House counsel’s chief of staff.",
+                 "url": "https://www.nytimes.com/2017/11/13/us/politics/trump-judge-brett-talley-nomination.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/us/14dc-nominee1/14dc-nominee1-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-14T13:04:35Z"
+                 },
+                 {
+                 "author": "Scott Shane, Nicole Perlroth and David E. Sanger",
+                 "title": "Security Breach and Spilled Secrets Have Shaken the N.S.A. to Its Core",
+                 "description": "A serial leak of the agency’s cyberweapons has damaged morale, slowed intelligence operations and resulted in hacking attacks on businesses and civilians worldwide.",
+                 "url": "https://www.nytimes.com/2017/11/12/us/nsa-shadow-brokers.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/13/world/13shadowbrokers1/13shadowbrokers1-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-13T21:46:55Z"
+                 },
+                 {
+                 "author": "Choe Sang-Hun",
+                 "title": "North Korean Soldier Shot by Own Troops as He Defects to the South",
+                 "description": "The North Korean was found alive by South Korean troops and taken to a hospital.",
+                 "url": "https://www.nytimes.com/2017/11/13/world/asia/north-korea-defector-south.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/world/14nkorea-1/14nkorea-1-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-14T06:48:21Z"
+                 },
+                 {
+                 "author": "Sarah Almukhtar, Larry Buchanan, Michael Gold",
+                 "title": "After Weinstein: A List of Men Accused of Sexual Misconduct and the Fallout for Each",
+                 "description": "Since the Harvey Weinstein scandal, a number of high-profile men have resigned, been fired or experienced other fallout after claims of sexual misconduct.",
+                 "url": "https://www.nytimes.com/interactive/2017/11/10/us/men-accused-sexual-misconduct-weinstein.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/10/us/men-accused-sexual-misconduct-weinstein-1510370544262/men-accused-sexual-misconduct-weinstein-1510370544262-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-14T20:38:33.21Z"
+                 },
+                 {
+                 "author": "Nicholas Fandos, Matt Apuzzo and Charlie Savage",
+                 "title": "Jeff Sessions Displays Unsteady Recall on Trump-Russia Matters",
+                 "description": "Mr. Sessions said he could not recall the details of a campaign adviser’s Russia proposals, but he could recall that he rejected a proposed Trump-Putin meeting.",
+                 "url": "https://www.nytimes.com/2017/11/14/us/politics/jeff-sessions-congress-russia.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/us/15dc-sessionsbriefing-alpha/15dc-sessionsbriefing-alpha-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-14T20:22:25Z"
+                 },
+                 {
+                 "author": "Michael S. Schmidt and Maggie Haberman",
+                 "title": "Justice Dept. to Weigh Inquiry Into Clinton Foundation",
+                 "description": "In a letter to the House Judiciary Committee, the Justice Department said it planned to pursue the possibility of appointing a special counsel to investigate the Uranium One deal.",
+                 "url": "https://www.nytimes.com/2017/11/13/us/politics/justice-department-uranium-one-special-counsel.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/us/14dc-uranium-alpha/14dc-uranium-alpha-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-14T18:20:28Z"
+                 },
+                 {
+                 "author": "Ekow N. Yankah",
+                 "title": "Opinion | Can My Children Be Friends With White People?",
+                 "description": "The rise of Donald Trump has broken bonds on all sides. But for people of color the stakes are different.",
+                 "url": "https://www.nytimes.com/2017/11/11/opinion/sunday/interracial-friendship-donald-trump.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/12/opinion/sunday/12yankah/12yankah-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-13T18:03:24Z"
+                 },
+                 {
+                 "author": "Gina Kolata",
+                 "title": "Under New Guidelines, Millions More Americans Will Need to Lower Blood Pressure",
+                 "description": "Experts set new targets for treatment of hypertension on Monday, greatly expanding the number of adults who will qualify for the diagnosis.",
+                 "url": "https://www.nytimes.com/2017/11/13/health/blood-pressure-treatment-guidelines.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/science/14HEART/14HEART-facebookJumbo.jpg",
+                 "publishedAt": "2017-11-14T21:00:08Z"
+                 },
+                 {
+                 "author": "Nicholas St. Fleur",
+                 "title": "Wine From Prehistoric Georgia With an 8,000-Year-Old Vintage",
+                 "description": "Pottery shards recovered from two archaeological sites in the country are the oldest evidence of winemaking, pushing the date back 600 to 1,000 years.",
+                 "url": "https://www.nytimes.com/2017/11/13/science/georgia-oldest-wine.html",
+                 "urlToImage": "https://static01.nyt.com/images/2017/11/14/science/14TB-WINE3/14TB-WINE3-facebookJumbo-v2.jpg",
+                 "publishedAt": "2017-11-14T16:12:42Z"
+                 }
+                 ]
+}
